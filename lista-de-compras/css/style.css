@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(178, 167, 190);
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(162 162 162);
+    color: brown;
+}
+h1 {
+    color: rgba(88, 88, 60, 0.432);
+    font-size: 300%;
+    font-family: cursive 
+    
+    
+}
+ul {
+    color: rgb(85, 77, 5);
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+}
